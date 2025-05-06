@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Naterminch</title>
+  <icon>https://naterminch.github.io/icon.png</icon>
+  <subtitle>code monkey blog</subtitle>
+  <link href="https://naterminch.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://naterminch.github.io/"/>
+  <updated>2025-05-06T15:42:20.575Z</updated>
+  <id>https://naterminch.github.io/</id>
+  
+  <author>
+    <name>naterminch</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://naterminch.github.io/posts/1/"/>
+    <id>https://naterminch.github.io/posts/1/</id>
+    <published>2025-05-06T15:42:20.575Z</published>
+    <updated>2025-05-06T15:42:20.575Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
